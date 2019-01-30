@@ -16,6 +16,10 @@
 
                     Welcome Laravel
                 </div>
+
+                <div>
+                    Otro contenedor
+                </div>
             </div>
         </div>
     </div>
