@@ -26,6 +26,6 @@
     </div>
 
     <div>
-        Este es un menu
+        Este es un menu lateral
     </div>
 @endsection
