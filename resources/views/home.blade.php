@@ -22,6 +22,6 @@
     </div>
 
     <div>
-        Este es un menu
+        Este es un menu hecho por paul
     </div>
 @endsection
